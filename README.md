@@ -1,7 +1,10 @@
-# Saturday-ractice
+# Saturday-Activity-Practice
 
-saturady study
+## Who are you, what is your background: 
+My name is Anita , I am pricing professions
 
-## fintech repo
+## Whate are your career ggoals? 
+I want to stepu up my career in pricing 
 
-### this is sample only 
+### Why did you coose FinTech? 
+To learn tchnology 
